@@ -1,0 +1,6 @@
+.env
+data/_cache/
+data/
+__pycache__/
+*.pyc
+botmed-env/
