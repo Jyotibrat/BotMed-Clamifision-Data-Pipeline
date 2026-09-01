@@ -9,7 +9,6 @@ Data collection and curation pipeline for **Clamifision**, BotMed's binary medic
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Project structure](#project-structure)
 - [Output schema](#output-schema)
 - [Data sources](#data-sources)
 - [Known limitations](#known-limitations)
